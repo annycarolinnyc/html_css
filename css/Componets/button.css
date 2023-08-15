@@ -1,4 +1,4 @@
-#button {
+.button {
   display: inline-block;
   background-color: #fb4b4e;
   height: 60px;
@@ -8,7 +8,7 @@
   box-shadow: 5px 5px 0 #ffcbdd;
   margin-right: 0;
 }
-#button:hover {
+.button:hover {
   webkit-transition-duration: 0.4s;
   transition-duration: 0.4s;
   background-color: #962020;
