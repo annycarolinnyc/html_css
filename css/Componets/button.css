@@ -16,6 +16,5 @@
   background-color: #962020;
   transform: scale(1.09);
   color: #ffcbdd;
-  box-shadow: 0 8px 16px 0 rgba(175, 9, 9, 0.2),
-    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  box-shadow: 0 8px 16px 0 rgba(175, 9, 9, 0.2);
 }
