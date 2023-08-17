@@ -1,0 +1,7 @@
+.banner {
+  background-image: url(../../ASSETS/Img/annycarolinny.jpeg);
+  height: 800px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  border-bottom: 10px solid #ffcbdd;
+}
