@@ -1,0 +1,9 @@
+.skill-tech {
+  display: flex;
+  font-size: 25px;
+  font-family: "Press Start 2P", sans-serif;
+  color: #ffcbdd;
+}
+.skill-tech .icon {
+  margin-right: 25px;
+}
