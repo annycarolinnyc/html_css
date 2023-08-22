@@ -1,0 +1,15 @@
+.carousel {
+  position: relative;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.carousel .button-arrow {
+  position: absolute;
+  bottom: 70px;
+}
+.carousel .button-arrow.-left {
+  left: 15px;
+}
+.carousel .button-arrow.-rigth {
+  right: 15px;
+}
