@@ -13,3 +13,9 @@
 .section .-bdfirst {
   border-color: #ffcbdd;
 }
+.section.-bdblack {
+  border-color: #000;
+}
+.section.-bgsecond {
+  background-color: #962020;
+}
