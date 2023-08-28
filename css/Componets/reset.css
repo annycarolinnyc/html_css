@@ -11,3 +11,6 @@ button {
   border: none;
   font-family: inherit;
 }
+figure {
+  margin: 0;
+}
