@@ -21,3 +21,6 @@
 .button.-full {
   width: 100%;
 }
+.button.-full:hover {
+  transform: scale(1.01);
+}
